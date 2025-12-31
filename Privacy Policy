@@ -1,59 +1,147 @@
-Privacy Policy for Wagers: With Friends
-Effective Date: [December 30,2025]
-Wagers: With Friends ("we," "us," or "our") operates the mobile application Wagers with Friends (the "App"), which enables users to create and track friendly wagers using virtual points, with no involvement of real money. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use the App. We are committed to protecting your privacy and comply with the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), as applicable.
-1. Information We Collect
-We collect the following types of information:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Wagers: With Friends</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            text-align: center;
+            color: #007aff;
+        }
+        h2 {
+            color: #007aff;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 8px;
+            margin-top: 40px;
+        }
+        p {
+            margin: 16px 0;
+        }
+        ul {
+            margin: 16px 0;
+            padding-left: 24px;
+        }
+        a {
+            color: #007aff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            margin-top: 60px;
+            text-align: center;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
 
-Personal Information: Your name and email address when you create an account.
-Wager Details: Text descriptions of wagers you create or participate in.
-Optional Media: Photos or videos you upload as proof for wagers (optional).
-Device Information: Automatically collected data such as device type, operating system, IP address, and analytics data for improving the App's performance.
+    <h1>Privacy Policy for Wagers: With Friends</h1>
 
-We do not collect sensitive personal information or any payment details, as the App does not involve real money.
-2. How We Use Your Information
-We use the collected information for the following purposes:
+    <p><strong>Effective Date:</strong> December 31, 2025</p>
 
-To create and manage user accounts.
-To process and track wagers, including storing text descriptions and optional media.
-To provide and improve App functionality, such as analytics on device information to enhance user experience.
-To communicate with you about your account or wagers (e.g., notifications).
-For internal analytics to understand App usage and optimize features.
+    <p>Wagers: With Friends ("we," "us," or "our") operates the mobile application <strong>Wagers: With Friends</strong> (the "App"), which enables users to create and track friendly wagers using virtual points, with no involvement of real money. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use the App. We are committed to protecting your privacy and comply with the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), as applicable.</p>
 
-We process personal data lawfully under applicable laws, including for contract performance (e.g., providing the App) and legitimate interests (e.g., analytics).
-3. Data Sharing and Disclosure
-We do not sell your personal information or share it with third parties for marketing purposes.
+    <h2>1. Information We Collect</h2>
 
-Service Providers: We may share your information with trusted service providers (e.g., cloud storage providers) solely to enable App functionality, such as storing wager details or media. These providers are contractually obligated to protect your data and use it only for the services we request.
-Legal Requirements: We may disclose information if required by law, such as in response to subpoenas or government requests, or to protect our rights, privacy, safety, or property.
-No Other Sharing: No other sharing occurs without your consent.
+    <p>We collect the following types of information:</p>
 
-Under GDPR and CCPA, your data is not shared for purposes unrelated to the App's core functions.
-4. Data Security
-We implement reasonable administrative, technical, and physical safeguards to protect your information from unauthorized access, loss, misuse, or alteration. However, no method of transmission over the internet or electronic storage is 100% secure, so we cannot guarantee absolute security.
-5. Data Retention
-We retain your personal information only as long as necessary for the purposes outlined in this Policy or as required by law. For example:
+    <ul>
+        <li><strong>Personal Information:</strong> Your name and email address when you create an account.</li>
+        <li><strong>Wager Details:</strong> Text descriptions of wagers you create or participate in.</li>
+        <li><strong>Optional Media:</strong> Photos or videos you upload as proof for wagers (optional).</li>
+        <li><strong>Device Information:</strong> Automatically collected data such as device type, operating system, IP address, and analytics data for improving the App's performance.</li>
+    </ul>
 
-Account data is retained while your account is active.
-Wager details and media are retained for the duration of the wager or as needed for tracking.
-Device information for analytics is retained in aggregated, anonymized form where possible.
+    <p>We do not collect sensitive personal information or any payment details, as the App does not involve real money.</p>
 
-6. Your Rights (GDPR and CCPA Compliance)
-Depending on your location and applicable laws, you have the following rights regarding your personal information:
+    <h2>2. How We Use Your Information</h2>
 
-Access and Portability: You may request access to or a copy of your personal data.
-Correction: Request correction of inaccurate personal information.
-Deletion: Request deletion of your personal data (subject to exceptions, e.g., for legal obligations).
-Restriction and Objection: Object to or restrict processing of your data for certain purposes.
-Withdrawal of Consent: Withdraw consent where processing is based on consent.
-Non-Discrimination: You will not be discriminated against for exercising these rights.
+    <p>We use the collected information for the following purposes:</p>
 
-For GDPR rights, you can exercise them by contacting us at [Insert Contact Email]. For CCPA, as a California resident, you may submit requests via the same channel. We will respond within the time frames required by law (e.g., 45 days for CCPA verification requests).
-7. International Data Transfers
-If you are in the European Economic Area (EEA), your data may be transferred outside the EEA to countries without equivalent data protection laws. We ensure such transfers are protected under GDPR safeguards, such as Standard Contractual Clauses.
-8. Children's Privacy
-The App is not intended for children under 16 years of age. We do not knowingly collect personal information from children. If we learn we have collected such information, we will delete it promptly.
-9. Changes to This Privacy Policy
-We may update this Policy periodically. Changes will be posted in the App or via notification. Your continued use after changes constitutes acceptance.
-10. Contact Us
-For questions, rights exercises, or concerns about this Policy, contact us at [Insert Contact Email or Support Channel].
-Last Updated: December 30, 2025
+    <ul>
+        <li>To create and manage user accounts.</li>
+        <li>To process and track wagers, including storing text descriptions and optional media.</li>
+        <li>To provide and improve App functionality, such as analytics on device information to enhance user experience.</li>
+        <li>To communicate with you about your account or wagers (e.g., notifications).</li>
+        <li>For internal analytics to understand App usage and optimize features.</li>
+    </ul>
+
+    <p>We process personal data lawfully under applicable laws, including for contract performance (e.g., providing the App) and legitimate interests (e.g., analytics).</p>
+
+    <h2>3. Data Sharing and Disclosure</h2>
+
+    <p>We do not sell your personal information or share it with third parties for marketing purposes.</p>
+
+    <ul>
+        <li><strong>Service Providers:</strong> We may share your information with trusted service providers (e.g., cloud storage providers) solely to enable App functionality, such as storing wager details or media. These providers are contractually obligated to protect your data and use it only for the services we request.</li>
+        <li><strong>Legal Requirements:</strong> We may disclose information if required by law, such as in response to subpoenas or government requests, or to protect our rights, privacy, safety, or property.</li>
+        <li><strong>No Other Sharing:</strong> No other sharing occurs without your consent.</li>
+    </ul>
+
+    <p>Under GDPR and CCPA, your data is not shared for purposes unrelated to the App's core functions.</p>
+
+    <h2>4. Data Security</h2>
+
+    <p>We implement reasonable administrative, technical, and physical safeguards to protect your information from unauthorized access, loss, misuse, or alteration. However, no method of transmission over the internet or electronic storage is 100% secure, so we cannot guarantee absolute security.</p>
+
+    <h2>5. Data Retention</h2>
+
+    <p>We retain your personal information only as long as necessary for the purposes outlined in this Policy or as required by law. For example:</p>
+
+    <ul>
+        <li>Account data is retained while your account is active.</li>
+        <li>Wager details and media are retained for the duration of the wager or as needed for tracking.</li>
+        <li>Device information for analytics is retained in aggregated, anonymized form where possible.</li>
+    </ul>
+
+    <h2>6. Your Rights (GDPR and CCPA Compliance)</h2>
+
+    <p>Depending on your location and applicable laws, you have the following rights regarding your personal information:</p>
+
+    <ul>
+        <li><strong>Access and Portability:</strong> You may request access to or a copy of your personal data.</li>
+        <li><strong>Correction:</strong> Request correction of inaccurate personal information.</li>
+        <li><strong>Deletion:</strong> Request deletion of your personal data (subject to exceptions, e.g., for legal obligations).</li>
+        <li><strong>Restriction and Objection:</strong> Object to or restrict processing of your data for certain purposes.</li>
+        <li><strong>Withdrawal of Consent:</strong> Withdraw consent where processing is based on consent.</li>
+        <li><strong>Non-Discrimination:</strong> You will not be discriminated against for exercising these rights.</li>
+    </ul>
+
+    <p>For GDPR rights, you can exercise them by contacting us at <a href="mailto:support@wagerswithfriends.com">support@wagerswithfriends.com</a>. For CCPA, as a California resident, you may submit requests via the same channel. We will respond within the time frames required by law (e.g., 45 days for CCPA verification requests).</p>
+
+    <h2>7. International Data Transfers</h2>
+
+    <p>If you are in the European Economic Area (EEA), your data may be transferred outside the EEA to countries without equivalent data protection laws. We ensure such transfers are protected under GDPR safeguards, such as Standard Contractual Clauses.</p>
+
+    <h2>8. Children's Privacy</h2>
+
+    <p>The App is not intended for children under 16 years of age. We do not knowingly collect personal information from children. If we learn we have collected such information, we will delete it promptly.</p>
+
+    <h2>9. Changes to This Privacy Policy</h2>
+
+    <p>We may update this Policy periodically. Changes will be posted in the App or via notification. Your continued use after changes constitutes acceptance.</p>
+
+    <h2>10. Contact Us</h2>
+
+    <p>For questions, rights exercises, or concerns about this Policy, contact us at:</p>
+    <p><a href="mailto:Wagerwithfriends@gmail.com">Wagerwithfriends@gmail.com</a></p>
+
+    <div class="footer">
+        <p>Last Updated: December 31, 2025</p>
+    </div>
+
+</body>
+</html>
